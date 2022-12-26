@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **owais.frq@gmail.com**
 <div align="center">
-<h3 align="left" style="font-size:40px;">Let's Connect🤝</h3>
+<h3 style="font-size:40px;">Let's Connect🤝</h3>
 <p align="middle">
 <a href="https://linkedin.com/in/mohammad owais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad owais" height="30" width="40" /></a>
 <a href="https://kaggle.com/m.owais farooqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m.owais farooqui" height="30" width="40" /></a>

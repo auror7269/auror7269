@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://i.pinimg.com/originals/cc/6a/fc/cc6afc451a6d3857d556331e16e10bf7.gif)]
+![MasterHead](https://forem.dev/images/wwl9il3DJK8mIUC2Hj3LQnkeEaKn8Ra4cbAUeNt-0Mo/s:1000:420/mb:500000/ar:1/aHR0cHM6Ly9mb3Jl/bS5kZXYvcmVtb3Rl/aW1hZ2VzL3VwbG9h/ZHMvYXJ0aWNsZXMv/OWJld2pkOG9yb2Fj/eXM5NzU0emguZ2lm)
 
 <h1 align="center">Hi 👋, I'm M.Owais Farooqui</h1>
 <h3 align="center">I'm a Software Engineer from India mainly fascinated by the world of Data Science( AI and ML). Also handy with Data Structure Analysis</h3>

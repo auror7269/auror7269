@@ -14,8 +14,8 @@
 <div align="center">
 <h3 style="font-size:40px;">Let's Connect🤝</h3>
 <p align="middle">
-<a href="https://linkedin.com/in/mohammad owais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad owais" height="30" width="40" /></a>
-<a href="https://kaggle.com/m.owais farooqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m.owais farooqui" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mohammad-owais-farooqui-0a45a8175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad owais" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mowaisfarooqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m.owais farooqui" height="30" width="40" /></a>
 <a href="https://instagram.com/owais_farooqui_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owais_farooqui_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/auror21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="auror21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/auror21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="auror21" height="30" width="40" /></a>

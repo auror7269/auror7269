@@ -7,7 +7,7 @@
 <h3 align="center">I'm a Software Engineer from India mainly fascinated by the world of Data Science( AI and ML). 
  Also handy with Data Structure Analysis</h3>
 
-<h4 align="left"><b>Take a look at my </u></b><a target="_blank" href="https://drive.google.com/drive/u/0/folders/11eJugYOlzn0RbgBKQO_KDrR7T0oGkD2O">Resume<img src="https://cdn1.iconfinder.com/data/icons/leto-files/64/leto_files-14-256.png" title="Resume" alt="Resume" width="50" height="50"/></a></h4>
+<h4 align="left"><b>Take a look at my </u></b><a target="_blank" href="https://drive.google.com/file/d/1qlTz2uE8pi1lDSEGQIef9Ux0R92Xkksp/view?usp=sharing">Resume<img src="https://cdn1.iconfinder.com/data/icons/leto-files/64/leto_files-14-256.png" title="Resume" alt="Resume" width="50" height="50"/></a></h4>
 
  🌱 I’m currently learning **Deep learning, Kaggle and DSA**
 

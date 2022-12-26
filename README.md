@@ -10,7 +10,7 @@
 
  🌱 I’m currently learning **Deep learning, Kaggle and DSA**
 
-- 📫 How to reach me **owais.frq@gmail.com**
+ 📫 How to reach me **owais.frq@gmail.com**
 <div align="center">
 <h3 style="font-size:40px;">Let's Connect🤝</h3>
 <p align="middle">

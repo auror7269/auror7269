@@ -3,9 +3,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <h1 align="center">Hi 👋, I'm M.Owais Farooqui</h1>
 <h3 align="center">I'm a Software Engineer from India mainly fascinated by the world of Data Science( AI and ML). 
  Also handy with Data Structure Analysis</h3>
